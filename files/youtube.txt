@@ -12,3 +12,10 @@ yt-video-upload.l.google.com
 yt.be
 ytimg.com
 ytimg.l.google.com
+yt3.ggpht.com
+yt4.ggpht.com
+yt3.googleusercontent.com
+stable.dl2.discordapp.net
+youtube.com
+youtubekids.com
+yt-video-upload.l.google.com

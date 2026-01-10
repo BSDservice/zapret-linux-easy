@@ -36,6 +36,7 @@ while IFS= read -r line; do
     line="${line//\{hosts\}//opt/zapret/autohosts.txt}"
     line="${line//\{youtube\}//opt/zapret/youtube.txt}"
     line="${line//\{ignore\}//opt/zapret/ignore.txt}"
+    line="${line//\{ignore_ip\}//opt/zapret/ignore_ip.txt}"
     line="${line//\{ipset\}//opt/zapret/ipset.txt}"
     line="${line//\{quicgoogle\}//opt/zapret/system/quic_initial_www_google_com.bin}"
     line="${line//\{tlsgoogle\}//opt/zapret/system/tls_clienthello_www_google_com.bin}"
